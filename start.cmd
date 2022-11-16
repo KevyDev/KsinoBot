@@ -1,1 +1,1 @@
-cmd /k bot.py
+cmd /k KsinoBot.py
